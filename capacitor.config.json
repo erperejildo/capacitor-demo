@@ -2,5 +2,7 @@
   "appId": "com.ph.camera",
   "appName": "capacitorDemo",
   "bundledWebRuntime": false,
-  "webDir": "www"
+  "webDir": "www",
+  "windowsAndroidStudioPath":
+    "E:\\Programas\\Android\\Android Studio\\bin\\studio64.exe"
 }
